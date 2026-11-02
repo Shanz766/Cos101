@@ -17,11 +17,11 @@ def calculate_force(mass, acceleration):
     return mass * acceleration
 
 def calculate_workdone(force, distance):
-    """3.  workdone = force * distance """
+    """4.  workdone = force * distance """
     
     return force * distance
 
 def calculate_power(force, velocity):
-    """3.  power= force * velocity """
+    """5.  power= force * velocity """
     
     return force * velocity
